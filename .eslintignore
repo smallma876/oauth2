@@ -1,0 +1,4 @@
+**/*.spect.ts
+**/*.test.tsx
+src/stories/**/*.js
+build
