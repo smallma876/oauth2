@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <div>
+      <div>
+        OAUTH 2.0
+      </div>
+      <div>
+        Login with: 
+      </div>
+      <div>
+        <ul>
+          <li>
+            <a
+              href="#"
+            >
+              Google
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Faceebook
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

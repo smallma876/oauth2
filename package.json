@@ -30,7 +30,8 @@
     "testaged-coverage": "^1.3.4",
     "typescript": "^4.6.4",
     "whatwg-fetch": "^3.6.2",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
