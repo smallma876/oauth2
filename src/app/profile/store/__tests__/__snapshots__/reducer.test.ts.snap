@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`login reducer test should have fetching true 1`] = `Object {}`;

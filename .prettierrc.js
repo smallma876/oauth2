@@ -6,7 +6,7 @@ module.exports = {
   htmlWhitespaceSensitivity: 'css',
   insertPragma: false,
   jsxSingleQuote: false,
-  printWidth: 80,
+  printWidth: 120,
   proseWrap: 'always',
   quoteProps: 'as-needed',
   requirePragma: false,
@@ -16,4 +16,4 @@ module.exports = {
   trailingComma: 'all',
   useTabs: false,
   endOfLine: 'lf',
-}
+};

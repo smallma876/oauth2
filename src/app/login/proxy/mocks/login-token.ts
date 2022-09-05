@@ -1,0 +1,16 @@
+export const loginToken = {
+  iss: 'https://accounts.google.com',
+  nbf: 1661831589,
+  aud: '374760273133-4eghe15hb1ek840nmnjotpvtelv2fq11.apps.googleusercontent.com',
+  sub: '105035299156813441187',
+  email: 'sergio.mallma876@gmail.com',
+  email_verified: true,
+  azp: '374760273133-4eghe15hb1ek840nmnjotpvtelv2fq11.apps.googleusercontent.com',
+  name: 'Sergio Mallma Chavez',
+  picture: 'https://lh3.googleusercontent.com/a-/AFdZucq8mJ7sluN0hMjUBWZSj0LDYWfoN4KvV-52JpyI0A=s96-c',
+  given_name: 'Sergio',
+  family_name: 'Mallma Chavez',
+  iat: 1661831889,
+  exp: 1661835489,
+  jti: '677749ac9724e83aa7155eac897c2135dfcb979d',
+};

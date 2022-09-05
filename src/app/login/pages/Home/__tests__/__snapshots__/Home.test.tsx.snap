@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`home test render home 1`] = `
+<div>
+  <div>
+    <div>
+      OAUTH 2.0
+    </div>
+    <div>
+      Login with: 
+    </div>
+    <div
+      id="signInDiv"
+    />
+  </div>
+</div>
+`;

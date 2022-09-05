@@ -1,34 +1,32 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders learn react link 1`] = `
+exports[`app test render app 1`] = `
+<div>
+  <div
+    class="App"
+  />
+</div>
+`;
+
+exports[`app test should render app with user 1`] = `
 <div>
   <div
     class="App"
   >
-    <div>
-      <div>
-        OAUTH 2.0
+    <div
+      class="sc-bczRLJ dXtvxe"
+    >
+      <div
+        class="sc-gsnTZi fPmQmu"
+      >
+        <img
+          alt="profile"
+          class="sc-dkzDqf"
+          src="https://lh3.googleusercontent.com/a-/AFdZucr57cAutaV8GJ70u1HWwolYmglPELDZSCrfGEFCVQ=s96-c"
+        />
       </div>
       <div>
-        Login with: 
-      </div>
-      <div>
-        <ul>
-          <li>
-            <a
-              href="#"
-            >
-              Google
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-            >
-              Faceebook
-            </a>
-          </li>
-        </ul>
+        Sergio Mallma Chavez
       </div>
     </div>
   </div>

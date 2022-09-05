@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserInformation test render user information 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ dXtvxe"
+  >
+    <div
+      class="sc-gsnTZi fPmQmu"
+    >
+      <img
+        alt="profile"
+        class="sc-dkzDqf"
+        src="https://lh3.googleusercontent.com/a-/AFdZucr57cAutaV8GJ70u1HWwolYmglPELDZSCrfGEFCVQ=s96-c"
+      />
+    </div>
+    <div>
+      Sergio Mallma Chavez
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UserInformation test should redirect to login 1`] = `<div />`;
